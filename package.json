@@ -1,0 +1,14 @@
+{
+    "name": "@chenpingjun/jsdaily",
+    "version": "0.0.0",
+    "description": "Daily used javascript codes",
+    "license": "Apache",
+    "repository": "chenpingjun/jsdaily",
+    "main": "index.js",
+    "keywords": [
+        "daily",
+        "npm",
+        "package",
+        "chenpingjun"
+    ]
+}
