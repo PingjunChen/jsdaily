@@ -1,14 +1,14 @@
 {
-    "name": "@chenpingjun/jsdaily",
-    "version": "0.0.1",
-    "description": "Daily used javascript codes",
-    "license": "Apache",
-    "repository": "chenpingjun/jsdaily",
-    "main": "index.js",
-    "keywords": [
-        "daily",
-        "npm",
-        "package",
-        "chenpingjun"
-    ]
+  "name": "@chenpingjun/jsdaily",
+  "version": "1.0.0",
+  "description": "Daily used javascript codes",
+  "license": "Apache",
+  "repository": "chenpingjun/jsdaily",
+  "main": "index.js",
+  "keywords": [
+    "daily",
+    "npm",
+    "package",
+    "chenpingjun"
+  ]
 }
