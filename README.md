@@ -5,4 +5,14 @@
 
 Daily used javascript codes.
 
-### Starting stage...
+## Install
+```
+$ npm install @chenpingjun/jsdaily
+```
+
+## Usage
+```
+const jsdaily = require("@chenpingjun/jsdaily");
+let results = jsdaily("So much space!");
+console.log(results);
+```
