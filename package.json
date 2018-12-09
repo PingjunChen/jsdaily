@@ -1,14 +1,16 @@
 {
-  "name": "@chenpingjun/jsdaily",
-  "version": "1.0.0",
-  "description": "Daily used javascript codes",
-  "license": "Apache",
-  "repository": "chenpingjun/jsdaily",
-  "main": "index.js",
-  "keywords": [
-    "daily",
-    "npm",
-    "package",
-    "chenpingjun"
-  ]
+    "name": "@chenpingjun/jsdaily",
+    "version": "0.0.2",
+    "author": "Pingjun Chen <chenpingjun@gmx.com>",
+    "description": "Daily used javascript codes.",
+    "main": "src/daily.js",
+    "license": "Apache",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PingjunChen/jsdaily"
+    },
+    "keywords": [
+        "daily"
+    ],
+    "dependencies": {}
 }
