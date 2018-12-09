@@ -2,7 +2,7 @@
 [![GitHub license](https://img.shields.io/github/license/PingjunChen/jsdaily.svg)](https://github.com/PingjunChen/jsdaily/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/PingjunChen/jsdaily.svg)](https://github.com/PingjunChen/jsdaily/stargazers)
 
-Daily used javascript codes.
+Daily utility functions for javascript.
 
 ## Install
 ```

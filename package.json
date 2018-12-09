@@ -2,7 +2,7 @@
     "name": "@chenpingjun/jsdaily",
     "version": "0.0.2",
     "author": "Pingjun Chen <chenpingjun@gmx.com>",
-    "description": "Daily used javascript codes.",
+    "description": "Daily utility functions for javascript.",
     "main": "src/daily.js",
     "license": "Apache",
     "repository": {
