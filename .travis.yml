@@ -8,4 +8,4 @@ script:
     - npm test
 after_success:
     - istanbul cover test/test-index.js --reporter lcovonly -- -R spec
-    -codecov
+    - codecov
