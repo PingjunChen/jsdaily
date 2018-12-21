@@ -1,4 +1,5 @@
 # jsdaily
+![Build Status](https://travis-ci.org/PingjunChen/jsdaily.svg?branch=master)
 [![GitHub license](https://img.shields.io/github/license/PingjunChen/jsdaily.svg)](https://github.com/PingjunChen/jsdaily/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/PingjunChen/jsdaily.svg)](https://github.com/PingjunChen/jsdaily/stargazers)
 
@@ -21,4 +22,4 @@ console.log(tiny_str);
 
 ## License
 
-``jsdaily`` is released under Apache License 2.0. For details, see the [LICENSE.txt file](./LICENSE.txt).
+``jsdaily`` is released under Apache License 2.0. For details, see the [LICENSE](LICENSE) file.
