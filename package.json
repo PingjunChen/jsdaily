@@ -1,6 +1,6 @@
 {
     "name": "@chenpingjun/jsdaily",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Pingjun Chen <chenpingjun@gmx.com>",
     "description": "Daily utility functions for javascript.",
     "main": "src/daily.js",
@@ -10,7 +10,8 @@
         "url": "https://github.com/PingjunChen/jsdaily"
     },
     "keywords": [
-        "daily"
+        "daily",
+        "javascript"
     ],
     "dependencies": {}
 }
