@@ -6,7 +6,7 @@ Daily utility functions for javascript.
 
 ## Install
 ```
-$ npm install @chenpingjun/jsdaily
+$ npm install @chenpingjun/jsdaily --save
 ```
 
 ## Usage
@@ -18,3 +18,7 @@ let us_str = "United \t States \n";
 let tiny_str = daily.removeStringSpace(us_str);
 console.log(tiny_str);
 ```
+
+## License
+
+``jsdaily`` is released under Apache License 2.0. For details, see the [LICENSE.txt file](./LICENSE.txt).
