@@ -13,5 +13,8 @@
         "daily",
         "javascript"
     ],
-    "dependencies": {}
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^5.10.0"
+    }
 }

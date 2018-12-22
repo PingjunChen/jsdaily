@@ -1,1 +1,1 @@
-module.exports = require("./src/daily");
+module.exports = require('./src/daily');
