@@ -12,7 +12,7 @@ $ npm install @chenpingjun/jsdaily --save
 ```
 
 ## Usage
-```
+```alpha
 const daily = require("@chenpingjun/jsdaily");
 let color = daily.getRandomColor();
 console.log("Color is: " + color);
