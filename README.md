@@ -1,7 +1,6 @@
 # jsdaily
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a893bf00c7a54d9f9b725995ca8d5329)](https://app.codacy.com/app/PingjunChen/jsdaily?utm_source=github.com&utm_medium=referral&utm_content=PingjunChen/jsdaily&utm_campaign=Badge_Grade_Dashboard)
 ![Build Status](https://travis-ci.org/PingjunChen/jsdaily.svg?branch=master)
-[![GitHub license](https://img.shields.io/github/license/PingjunChen/jsdaily.svg)](https://github.com/PingjunChen/jsdaily/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/PingjunChen/jsdaily.svg)](https://github.com/PingjunChen/jsdaily/stargazers)
 
 Daily utility functions for javascript.
